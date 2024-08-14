@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrSanket75
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> sanketggosavi17@gmail.com 
 <!---
